@@ -1,4 +1,4 @@
 PuzzleSnap
 ==========
 
-Camera API Demo
+Camera API Demo for Mozilla DevDerby
